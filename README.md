@@ -19,3 +19,6 @@
 Часть 2
 
 ![](https://github.com/Alice1ee/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2016.17.31.png)
+
+![](https://github.com/Alice1ee/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2016.24.54.png)
+
